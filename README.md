@@ -1,105 +1,97 @@
 
-# Hi, I'm Aminul Islam
+# Aminul Islam
+### AI Automation Engineer | n8n | AI Agents | RAG | API Integration
 
-### Oracle APEX Developer | Database Engineer | AI Automation Engineer
+I build AI-powered automation workflows that connect business processes, APIs, data sources, and language models to solve practical business problems.
 
-I build enterprise applications, optimize Oracle databases, and develop AI-powered business automation workflows.
+With a background in software development, Oracle databases, and enterprise applications, I focus on building automation solutions with clear business logic, maintainable workflows, and reliable integrations.
 
-- 💻 Specialized in Oracle APEX, Oracle Database, SQL & PL/SQL
-- 🤖 Building AI agents, RAG applications, and n8n automation workflows
-- 🔗 Experienced in REST API integration and business process automation
-- ☁️ Exploring Oracle Cloud Infrastructure (OCI), AI, and scalable SaaS products
-- 🌍 Interested in remote opportunities and international freelance projects
+- **AI Automation:** n8n workflows, business process automation, and API integration
+- **AI & RAG:** LLM integrations, embeddings, vector databases, and knowledge retrieval
+- **Integrations:** REST APIs, Gmail, Telegram, Google Workspace, and external services
+- **Business Workflows:** Customer support, lead generation, recruitment, and task management
+- **Engineering:** Oracle APEX, Oracle Database, SQL, and PL/SQL
 
----
-
-## 🛠️ Tech Stack
-
-### ⚡ Oracle & Database
-![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-Developer-red)
-![Oracle Database](https://img.shields.io/badge/Oracle-Database-red)
-![SQL](https://img.shields.io/badge/SQL-Database-blue)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Development-orange)
-
-### 🤖 AI & Automation
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71)
-![AI Agents](https://img.shields.io/badge/AI-Agents-purple)
-![RAG](https://img.shields.io/badge/RAG-Applications-blueviolet)
-![REST API](https://img.shields.io/badge/REST-API-green)
-
-### ☁️ Cloud & Development
-![OCI](https://img.shields.io/badge/Oracle-Cloud-red)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Python](https://img.shields.io/badge/Python-Development-blue)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+**Portfolio:** [aminulaicloud.com](https://aminulaicloud.com)  
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/aminulaicloud)  
+**GitHub:** [Aminul-Eng](https://github.com/Aminul-Eng)
 
 ---
 
-## 🚀 Featured Projects
+## Core Technologies
 
-
-<h2>📌 Featured Projects</h2>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 RAG AI Support Agent</h3>
-      <p>
-        AI-powered customer support with knowledge retrieval
-        and human review workflows.
-      </p>
-      <p><strong>Tech:</strong> n8n, RAG, APIs</p>
-      <a href="YOUR_PROJECT_URL">View Project</a>
-    </td>
-    <td width="50%">
-      <h3>📅 Telegram Task Manager</h3>
-      <p>
-        Natural-language task management and calendar
-        automation through Telegram.
-      </p>
-      <p><strong>Tech:</strong> n8n, Telegram API</p>
-      <a href="YOUR_PROJECT_URL">View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📊 Oracle APEX Applications</h3>
-      <p>
-        Enterprise applications, reporting, and database
-        development.
-      </p>
-      <p><strong>Tech:</strong> Oracle APEX, SQL, PL/SQL</p>
-      <a href="YOUR_PROJECT_URL">View Project</a>
-    </td>
-    <td width="50%">
-      <h3>📍 AI Lead Generation</h3>
-      <p>
-        Automated business research, lead qualification,
-        and personalized outreach preparation.
-      </p>
-      <p><strong>Tech:</strong> n8n, Apify, LLMs</p>
-      <a href="YOUR_PROJECT_URL">View Project</a>
-    </td>
-  </tr>
-</table>
-
+| Category | Technologies |
+|---|---|
+| Automation | n8n, workflow orchestration, webhooks |
+| AI | LLMs, AI agents, prompt engineering, RAG |
+| Vector Search | Pinecone, Supabase pgvector, embeddings |
+| Integrations | REST APIs, Gmail API, Telegram Bot API |
+| Data & Productivity | Google Sheets, Google Workspace, Apify |
+| Development | Python, JavaScript, SQL, PL/SQL |
+| Enterprise | Oracle APEX, Oracle Database |
+| Cloud | Oracle Cloud Infrastructure (OCI) |
 
 ---
 
-## 📊 GitHub Statistics
+## Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+### 1. RAG-Based Email Customer Support Agent
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+An n8n-based customer support workflow that retrieves relevant company knowledge and generates context-aware email responses.
+
+**Highlights**
+- Gmail-triggered customer inquiry processing
+- Knowledge ingestion and vector search
+- Retrieval-Augmented Generation (RAG)
+- Context-aware response generation
+- Automated replies within the original email thread
+
+**Stack:** n8n, OpenAI, Pinecone, Gmail API
+
+[View Repository →](https://github.com/Aminul-Eng/RAG-Based-Email-Customer-Support-Agent)
+
+### 2. AI Automation & Workflow Projects
+
+Explore my public repositories for n8n workflow templates, AI agent experiments, automation patterns, and related development work.
+
+[Explore All Repositories →](https://github.com/Aminul-Eng?tab=repositories)
 
 ---
 
-## 🌐 Connect with Me
+## How I Approach Automation
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Portfolio: https://aminulaicloud.com
-- Email: YOUR_PROFESSIONAL_EMAIL
+1. **Understand** — Identify the business problem, existing process, and expected outcome.
+2. **Design** — Define triggers, data flow, integrations, and business rules.
+3. **Build** — Connect APIs, automation tools, and AI services.
+4. **Validate** — Test workflow behavior, data handling, and failure scenarios.
+5. **Improve** — Document the solution and identify opportunities for reliability and maintainability.
+
+My focus is on solving business problems—not simply connecting tools.
 
 ---
 
-*Building practical software solutions through database engineering, AI, and automation.*
+## Professional Background
+
+My software engineering foundation includes Oracle APEX, Oracle Database, SQL, PL/SQL, enterprise application development, and REST API integration.
+
+I apply this experience to AI automation, workflow engineering, and practical business process solutions.
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aminul-Eng&show_icons=true&hide_title=true&rank_icon=github&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminul-Eng&layout=compact&theme=default&hide_border=true)
+
+---
+
+## Connect
+
+- **Portfolio:** https://aminulaicloud.com
+- **LinkedIn:** https://www.linkedin.com/in/aminulaicloud
+- **GitHub:** https://github.com/Aminul-Eng
+
+Interested in AI automation, n8n workflows, AI agents, RAG applications, and API integration.
+
+*Building practical business solutions through AI, automation, and software engineering.*
