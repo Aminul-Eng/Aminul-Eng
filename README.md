@@ -37,14 +37,52 @@ I build enterprise applications, optimize Oracle databases, and develop AI-power
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technology |
-|---|---|---|
-| Oracle APEX Enterprise Suite | Enterprise application development and reporting | Oracle APEX, SQL, PL/SQL |
-| RAG AI Customer Support Agent | AI-powered knowledge retrieval and customer support | n8n, RAG, Vector Database |
-| Telegram Task Manager | Natural-language task and calendar automation | n8n, Telegram API |
-| AI Lead Generation Workflow | Business lead research and personalized outreach | n8n, Apify, LLMs |
-| HR Hiring Automation | Candidate processing and recruitment workflow | n8n, APIs |
-| Google Sheets Cleaner Bot | Automated data validation and cleanup | n8n, Google Sheets |
+
+<h2>📌 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 RAG AI Support Agent</h3>
+      <p>
+        AI-powered customer support with knowledge retrieval
+        and human review workflows.
+      </p>
+      <p><strong>Tech:</strong> n8n, RAG, APIs</p>
+      <a href="YOUR_PROJECT_URL">View Project</a>
+    </td>
+    <td width="50%">
+      <h3>📅 Telegram Task Manager</h3>
+      <p>
+        Natural-language task management and calendar
+        automation through Telegram.
+      </p>
+      <p><strong>Tech:</strong> n8n, Telegram API</p>
+      <a href="YOUR_PROJECT_URL">View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📊 Oracle APEX Applications</h3>
+      <p>
+        Enterprise applications, reporting, and database
+        development.
+      </p>
+      <p><strong>Tech:</strong> Oracle APEX, SQL, PL/SQL</p>
+      <a href="YOUR_PROJECT_URL">View Project</a>
+    </td>
+    <td width="50%">
+      <h3>📍 AI Lead Generation</h3>
+      <p>
+        Automated business research, lead qualification,
+        and personalized outreach preparation.
+      </p>
+      <p><strong>Tech:</strong> n8n, Apify, LLMs</p>
+      <a href="YOUR_PROJECT_URL">View Project</a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
